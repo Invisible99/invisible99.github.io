@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Stef Janssens</title>
+    <link>https://invisible99.github.io/categories/code/</link>
+    <description>Recent content in Code on Stef Janssens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://invisible99.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salty Sands</title>
+      <link>https://invisible99.github.io/post/saltysands/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/saltysands/</guid>
+      <description>&lt;p&gt;This is a hack’n’slash game for up to four players where the goal is to be the last person standing.&lt;/p&gt;
+
+&lt;p&gt;C#/ Visual Studio/ Unity
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2D Game Engine</title>
+      <link>https://invisible99.github.io/post/gameengine/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/gameengine/</guid>
+      <description>&lt;p&gt;Making a game engine based off Minigin.&lt;/p&gt;
+
+&lt;p&gt;C++/ Visual Studio
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AI - survival</title>
+      <link>https://invisible99.github.io/post/aisurvival/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/aisurvival/</guid>
+      <description>&lt;p&gt;Making an AI that survives as long as possible with minimal information.&lt;/p&gt;
+
+&lt;p&gt;C++/ Visual Studio
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://invisible99.github.io/post/art/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/art/</guid>
+      <description>&lt;p&gt;My 3D modeling art projects.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pokémon - 2D</title>
+      <link>https://invisible99.github.io/post/pokemon/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/pokemon/</guid>
+      <description>&lt;p&gt;In this project I remade Pokémon.&lt;/p&gt;
+
+&lt;p&gt;C++/ Visual Studio
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

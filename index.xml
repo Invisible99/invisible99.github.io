@@ -9,17 +9,39 @@
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://invisible99.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Salty Sands</title>
+     <item>
+      <title>Climax Studio</title>
+      <link>https://invisible99.github.io/post/saltysands/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/saltysands/</guid>
+      <description>&lt;p&gt;My second work experience where I honed my skills and worked on Returnal and am currently working on an unreleased game.&lt;/p&gt;
+
+&lt;p&gt;C#/ Visual Studio/ Unreal
+&lt;/p&gt;</description>
+    </item> 
+	
+	<item>
+      <title>Climax Studio</title>
       <link>https://invisible99.github.io/post/saltysands/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://invisible99.github.io/post/saltysands/</guid>
       <description>&lt;p&gt;This is a hack’n’slash game for up to four players where the goal is to be the last person standing.&lt;/p&gt;
 
-&lt;p&gt;C#/ Visual Studio/ Unity
+&lt;p&gt;C++/ Visual Studio/ Unreal
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Black Shamrock</title>
+      <link>https://invisible99.github.io/post/saltysands/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://invisible99.github.io/post/saltysands/</guid>
+      <description>&lt;p&gt;From internship to hired fulltime. Here I got my first experience working on games like. Jedi: Fallen Order, Destroy All Humans and Paranioa: Happiness is Mandatory.&lt;/p&gt;
+
+&lt;p&gt;C#/ Visual Studio/ Unreal
 &lt;/p&gt;</description>
     </item>
     
